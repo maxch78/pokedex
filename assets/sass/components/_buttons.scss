@@ -1,0 +1,39 @@
+button {
+    width: 7rem;
+    height: 42px;
+    background-color: rgb(255, 145, 0);
+    font-size: 16px;
+    font-weight: 700;
+    color: whitesmoke;
+    vertical-align: center;
+    border: 1px solid whitesmoke;
+    border-radius: 7%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+button:hover {
+    background-color: #c08c2b;
+}
+input {
+    vertical-align: center;
+    height: 40px;
+    width: 15rem;
+}
+.btn {
+    width: 7rem;
+    height: 44px;
+    background-color: rgb(255, 145, 0);
+    font-size: 16px;
+    font-weight: 700;
+    color: whitesmoke;
+    vertical-align: center;
+    border: 1px solid whitesmoke;
+
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-left: 1rem;
+
+
+   
+}
+.btn:hover {
+    background-color: #c08c2b;
+}

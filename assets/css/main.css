@@ -1,0 +1,567 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98888888px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/max\/Downloads\/Prueba-3\/assets\/sass\/abstracts\/_mixins\.scss}line{font-family:\000033}}
+  .col-12 {
+    width: 100%;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/max\/Downloads\/Prueba-3\/assets\/sass\/abstracts\/_mixins\.scss}line{font-family:\000034}}
+  .col-11 {
+    width: 91.66666667%;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/max\/Downloads\/Prueba-3\/assets\/sass\/abstracts\/_mixins\.scss}line{font-family:\000035}}
+  .col-10 {
+    width: 83.33333333%;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/max\/Downloads\/Prueba-3\/assets\/sass\/abstracts\/_mixins\.scss}line{font-family:\000036}}
+  .col-9 {
+    width: 75%;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/max\/Downloads\/Prueba-3\/assets\/sass\/abstracts\/_mixins\.scss}line{font-family:\000037}}
+  .col-8 {
+    width: 66.66666667%;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/max\/Downloads\/Prueba-3\/assets\/sass\/abstracts\/_mixins\.scss}line{font-family:\000038}}
+  .col-7 {
+    width: 58.33333333%;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/max\/Downloads\/Prueba-3\/assets\/sass\/abstracts\/_mixins\.scss}line{font-family:\000039}}
+  .col-6 {
+    width: 50%;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/max\/Downloads\/Prueba-3\/assets\/sass\/abstracts\/_mixins\.scss}line{font-family:\0000310}}
+  .col-5 {
+    width: 41.66666667%;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/max\/Downloads\/Prueba-3\/assets\/sass\/abstracts\/_mixins\.scss}line{font-family:\0000311}}
+  .col-4 {
+    width: 33.33333333%;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/max\/Downloads\/Prueba-3\/assets\/sass\/abstracts\/_mixins\.scss}line{font-family:\0000312}}
+  .col-3 {
+    width: 25%;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/max\/Downloads\/Prueba-3\/assets\/sass\/abstracts\/_mixins\.scss}line{font-family:\0000313}}
+  .col-2 {
+    width: 16.6666667%;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/max\/Downloads\/Prueba-3\/assets\/sass\/abstracts\/_mixins\.scss}line{font-family:\0000314}}
+  .col-1 {
+    width: 8.33333333%;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/max\/Downloads\/Prueba-3\/assets\/sass\/abstracts\/_mixins\.scss}line{font-family:\0000315}}
+  .col-0 {
+    display: none;
+  }
+}
+/*Small devices (landscape phones, less than 768px)*/
+@media (min-width: 576px) and (max-width: 767.98888888px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/max\/Downloads\/Prueba-3\/assets\/sass\/abstracts\/_mixins\.scss}line{font-family:\0000321}}
+  .col-sm-12 {
+    width: 100%;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/max\/Downloads\/Prueba-3\/assets\/sass\/abstracts\/_mixins\.scss}line{font-family:\0000322}}
+  .col-sm-11 {
+    width: 91.66666667%;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/max\/Downloads\/Prueba-3\/assets\/sass\/abstracts\/_mixins\.scss}line{font-family:\0000323}}
+  .col-sm-10 {
+    width: 83.33333333%;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/max\/Downloads\/Prueba-3\/assets\/sass\/abstracts\/_mixins\.scss}line{font-family:\0000324}}
+  .col-sm-9 {
+    width: 75%;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/max\/Downloads\/Prueba-3\/assets\/sass\/abstracts\/_mixins\.scss}line{font-family:\0000325}}
+  .col-sm-8 {
+    width: 66.66666667%;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/max\/Downloads\/Prueba-3\/assets\/sass\/abstracts\/_mixins\.scss}line{font-family:\0000326}}
+  .col-sm-7 {
+    width: 58.33333333%;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/max\/Downloads\/Prueba-3\/assets\/sass\/abstracts\/_mixins\.scss}line{font-family:\0000327}}
+  .col-sm-6 {
+    width: 50%;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/max\/Downloads\/Prueba-3\/assets\/sass\/abstracts\/_mixins\.scss}line{font-family:\0000328}}
+  .col-sm-5 {
+    width: 41.66666667%;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/max\/Downloads\/Prueba-3\/assets\/sass\/abstracts\/_mixins\.scss}line{font-family:\0000329}}
+  .col-sm-4 {
+    width: 33.3 0.333333%;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/max\/Downloads\/Prueba-3\/assets\/sass\/abstracts\/_mixins\.scss}line{font-family:\0000330}}
+  .col-sm-3 {
+    width: 25%;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/max\/Downloads\/Prueba-3\/assets\/sass\/abstracts\/_mixins\.scss}line{font-family:\0000331}}
+  .col-sm-2 {
+    width: 16.6666667%;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/max\/Downloads\/Prueba-3\/assets\/sass\/abstracts\/_mixins\.scss}line{font-family:\0000332}}
+  .col-sm-1 {
+    width: 8.33333333%;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/max\/Downloads\/Prueba-3\/assets\/sass\/abstracts\/_mixins\.scss}line{font-family:\0000333}}
+  .col-sm-0 {
+    display: none;
+  }
+}
+/*Medium devices (tablets, less than 992px)*/
+@media (min-width: 768px) and (max-width: 991.98888888px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/max\/Downloads\/Prueba-3\/assets\/sass\/abstracts\/_mixins\.scss}line{font-family:\0000338}}
+  .col-md-12 {
+    width: 100%;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/max\/Downloads\/Prueba-3\/assets\/sass\/abstracts\/_mixins\.scss}line{font-family:\0000339}}
+  .col-md-11 {
+    width: 91.66666667%;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/max\/Downloads\/Prueba-3\/assets\/sass\/abstracts\/_mixins\.scss}line{font-family:\0000340}}
+  .col-md-10 {
+    width: 83.33333333%;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/max\/Downloads\/Prueba-3\/assets\/sass\/abstracts\/_mixins\.scss}line{font-family:\0000341}}
+  .col-md-9 {
+    width: 75%;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/max\/Downloads\/Prueba-3\/assets\/sass\/abstracts\/_mixins\.scss}line{font-family:\0000342}}
+  .col-md-8 {
+    width: 66.66666667%;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/max\/Downloads\/Prueba-3\/assets\/sass\/abstracts\/_mixins\.scss}line{font-family:\0000343}}
+  .col-md-7 {
+    width: 58.33333333%;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/max\/Downloads\/Prueba-3\/assets\/sass\/abstracts\/_mixins\.scss}line{font-family:\0000344}}
+  .col-md-6 {
+    width: 50%;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/max\/Downloads\/Prueba-3\/assets\/sass\/abstracts\/_mixins\.scss}line{font-family:\0000345}}
+  .col-md-5 {
+    width: 41.66666667%;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/max\/Downloads\/Prueba-3\/assets\/sass\/abstracts\/_mixins\.scss}line{font-family:\0000346}}
+  .col-md-4 {
+    width: 33.33333333;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/max\/Downloads\/Prueba-3\/assets\/sass\/abstracts\/_mixins\.scss}line{font-family:\0000347}}
+  .col-md-3 {
+    width: 25%;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/max\/Downloads\/Prueba-3\/assets\/sass\/abstracts\/_mixins\.scss}line{font-family:\0000348}}
+  .col-md-2 {
+    width: 16.6666667%;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/max\/Downloads\/Prueba-3\/assets\/sass\/abstracts\/_mixins\.scss}line{font-family:\0000349}}
+  .col-md-1 {
+    width: 8.33333333%;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/max\/Downloads\/Prueba-3\/assets\/sass\/abstracts\/_mixins\.scss}line{font-family:\0000350}}
+  .col-md-0 {
+    display: none;
+  }
+}
+/*Large devices (desktops, less than 1200px)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/max\/Downloads\/Prueba-3\/assets\/sass\/abstracts\/_mixins\.scss}line{font-family:\0000355}}
+  .col-lg-12 {
+    width: 100%;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/max\/Downloads\/Prueba-3\/assets\/sass\/abstracts\/_mixins\.scss}line{font-family:\0000356}}
+  .col-lg-11 {
+    width: 91.66666667%;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/max\/Downloads\/Prueba-3\/assets\/sass\/abstracts\/_mixins\.scss}line{font-family:\0000357}}
+  .col-lg-10 {
+    width: 83.33333333%;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/max\/Downloads\/Prueba-3\/assets\/sass\/abstracts\/_mixins\.scss}line{font-family:\0000358}}
+  .col-lg-9 {
+    width: 75%;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/max\/Downloads\/Prueba-3\/assets\/sass\/abstracts\/_mixins\.scss}line{font-family:\0000359}}
+  .col-lg-8 {
+    width: 66.66666667%;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/max\/Downloads\/Prueba-3\/assets\/sass\/abstracts\/_mixins\.scss}line{font-family:\0000360}}
+  .col-lg-7 {
+    width: 58.33333333%;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/max\/Downloads\/Prueba-3\/assets\/sass\/abstracts\/_mixins\.scss}line{font-family:\0000361}}
+  .col-lg-6 {
+    width: 50%;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/max\/Downloads\/Prueba-3\/assets\/sass\/abstracts\/_mixins\.scss}line{font-family:\0000362}}
+  .col-lg-5 {
+    width: 41.66666667%;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/max\/Downloads\/Prueba-3\/assets\/sass\/abstracts\/_mixins\.scss}line{font-family:\0000363}}
+  .col-lg-4 {
+    width: 33.33333333%;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/max\/Downloads\/Prueba-3\/assets\/sass\/abstracts\/_mixins\.scss}line{font-family:\0000364}}
+  .col-lg-3 {
+    width: 25%;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/max\/Downloads\/Prueba-3\/assets\/sass\/abstracts\/_mixins\.scss}line{font-family:\0000365}}
+  .col-lg-2 {
+    width: 16.6666667%;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/max\/Downloads\/Prueba-3\/assets\/sass\/abstracts\/_mixins\.scss}line{font-family:\0000366}}
+  .col-lg-1 {
+    width: 8.33333333%;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/max\/Downloads\/Prueba-3\/assets\/sass\/abstracts\/_mixins\.scss}line{font-family:\0000367}}
+  .col-lg-0 {
+    display: none;
+  }
+}
+/*Extra large devices*/
+@media (min-width: 1200px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/max\/Downloads\/Prueba-3\/assets\/sass\/abstracts\/_mixins\.scss}line{font-family:\0000371}}
+  .col-xl-12 {
+    width: 100%;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/max\/Downloads\/Prueba-3\/assets\/sass\/abstracts\/_mixins\.scss}line{font-family:\0000372}}
+  .col-xl-11 {
+    width: 91.66666667%;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/max\/Downloads\/Prueba-3\/assets\/sass\/abstracts\/_mixins\.scss}line{font-family:\0000373}}
+  .col-xl-10 {
+    width: 83.33333333%;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/max\/Downloads\/Prueba-3\/assets\/sass\/abstracts\/_mixins\.scss}line{font-family:\0000374}}
+  .col-xl-9 {
+    width: 75%;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/max\/Downloads\/Prueba-3\/assets\/sass\/abstracts\/_mixins\.scss}line{font-family:\0000375}}
+  .col-xl-8 {
+    width: 66.66666667%;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/max\/Downloads\/Prueba-3\/assets\/sass\/abstracts\/_mixins\.scss}line{font-family:\0000376}}
+  .col-xl-7 {
+    width: 58.33333333%;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/max\/Downloads\/Prueba-3\/assets\/sass\/abstracts\/_mixins\.scss}line{font-family:\0000377}}
+  .col-xl-6 {
+    width: 50%;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/max\/Downloads\/Prueba-3\/assets\/sass\/abstracts\/_mixins\.scss}line{font-family:\0000378}}
+  .col-xl-5 {
+    width: 41.66666667%;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/max\/Downloads\/Prueba-3\/assets\/sass\/abstracts\/_mixins\.scss}line{font-family:\0000379}}
+  .col-xl-4 {
+    width: 33.33333333%;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/max\/Downloads\/Prueba-3\/assets\/sass\/abstracts\/_mixins\.scss}line{font-family:\0000380}}
+  .col-xl-3 {
+    width: 25%;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/max\/Downloads\/Prueba-3\/assets\/sass\/abstracts\/_mixins\.scss}line{font-family:\0000381}}
+  .col-xl-2 {
+    width: 16.6666667%;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/max\/Downloads\/Prueba-3\/assets\/sass\/abstracts\/_mixins\.scss}line{font-family:\0000382}}
+  .col-xl-1 {
+    width: 8.33333333%;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/max\/Downloads\/Prueba-3\/assets\/sass\/abstracts\/_mixins\.scss}line{font-family:\0000383}}
+  .col-xl-0 {
+    display: none;
+  }
+}
+@media (min-width: 576px) and (max-width: 767.98888888px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/max\/Downloads\/Prueba-3\/assets\/sass\/abstracts\/_mixins\.scss}line{font-family:\0000387}}
+  .container {
+    width: 100%;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/max\/Downloads\/Prueba-3\/assets\/sass\/abstracts\/_mixins\.scss}line{font-family:\0000390}}
+  .row {
+    width: 100vw;
+    margin: 0;
+  }
+}
+@media (min-width: 768px) and (max-width: 991.98888888px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/max\/Downloads\/Prueba-3\/assets\/sass\/abstracts\/_mixins\.scss}line{font-family:\0000396}}
+  .container {
+    width: 100vw;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/max\/Downloads\/Prueba-3\/assets\/sass\/abstracts\/_mixins\.scss}line{font-family:\0000399}}
+  .row {
+    width: 100vw;
+    margin: 0;
+  }
+}
+@media (min-width: 992px) and (max-width: 1199.98px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/max\/Downloads\/Prueba-3\/assets\/sass\/abstracts\/_mixins\.scss}line{font-family:\00003105}}
+  .container {
+    width: 100vw;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/max\/Downloads\/Prueba-3\/assets\/sass\/abstracts\/_mixins\.scss}line{font-family:\00003108}}
+  .row {
+    width: 100vw;
+    margin: 0;
+  }
+}
+@media (min-width: 1200px) {
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/max\/Downloads\/Prueba-3\/assets\/sass\/abstracts\/_mixins\.scss}line{font-family:\00003114}}
+  .container {
+    width: 100vw;
+  }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/max\/Downloads\/Prueba-3\/assets\/sass\/abstracts\/_mixins\.scss}line{font-family:\00003117}}
+  .row {
+    width: 100vw;
+    margin: 0;
+  }
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/max\/Downloads\/Prueba-3\/assets\/sass\/base\/_reset\.scss}line{font-family:\000031}}
+body {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  list-style: none;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/max\/Downloads\/Prueba-3\/assets\/sass\/base\/_reset\.scss}line{font-family:\000038}}
+.container {
+  margin: 0;
+  padding: 10;
+  vertical-align: center;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/max\/Downloads\/Prueba-3\/assets\/sass\/base\/_reset\.scss}line{font-family:\0000313}}
+.col {
+  margin: 0;
+  padding: 0;
+  vertical-align: center;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/max\/Downloads\/Prueba-3\/assets\/sass\/base\/_typography\.scss}line{font-family:\000031}}
+body {
+  font-family: 'Lato', sans-serif;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/max\/Downloads\/Prueba-3\/assets\/sass\/components\/_buttons\.scss}line{font-family:\000031}}
+button {
+  width: 7rem;
+  height: 42px;
+  background-color: #ff9100;
+  font-size: 16px;
+  font-weight: 700;
+  color: whitesmoke;
+  vertical-align: center;
+  border: 1px solid whitesmoke;
+  border-radius: 7%;
+  -webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+          box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/max\/Downloads\/Prueba-3\/assets\/sass\/components\/_buttons\.scss}line{font-family:\0000313}}
+button:hover {
+  background-color: #c08c2b;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/max\/Downloads\/Prueba-3\/assets\/sass\/components\/_buttons\.scss}line{font-family:\0000316}}
+input {
+  vertical-align: center;
+  height: 40px;
+  width: 15rem;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/max\/Downloads\/Prueba-3\/assets\/sass\/components\/_buttons\.scss}line{font-family:\0000321}}
+.btn {
+  width: 7rem;
+  height: 44px;
+  background-color: #ff9100;
+  font-size: 16px;
+  font-weight: 700;
+  color: whitesmoke;
+  vertical-align: center;
+  border: 1px solid whitesmoke;
+  -webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+          box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-left: 1rem;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/max\/Downloads\/Prueba-3\/assets\/sass\/components\/_buttons\.scss}line{font-family:\0000337}}
+.btn:hover {
+  background-color: #c08c2b;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/max\/Downloads\/Prueba-3\/assets\/sass\/layout\/_navigation\.scss}line{font-family:\000031}}
+header {
+  height: 80px;
+  background-color: #424141;
+  padding-top: 1rem;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/max\/Downloads\/Prueba-3\/assets\/sass\/layout\/_navigation\.scss}line{font-family:\000035}}
+header .ingresonum {
+  font-size: 1.5rem;
+  font-weight: 800;
+  color: white;
+  margin-left: 2rem;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/max\/Downloads\/Prueba-3\/assets\/sass\/layout\/_navigation\.scss}line{font-family:\0000317}}
+section div .imagen {
+  width: 80%;
+  margin-left: 1rem;
+  padding-bottom: 2rem;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/max\/Downloads\/Prueba-3\/assets\/sass\/layout\/_navigation\.scss}line{font-family:\0000322}}
+section div p {
+  margin-left: 4rem;
+  margin-top: 0rem;
+  font-size: 1rem;
+  font-weight: 400;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/max\/Downloads\/Prueba-3\/assets\/sass\/layout\/_navigation\.scss}line{font-family:\0000328}}
+section div #movimientos {
+  width: 80%;
+  height: auto;
+  padding: 0;
+  position: absolute;
+  margin-left: 18rem;
+  margin-top: 0rem;
+}
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/max\/Downloads\/Prueba-3\/assets\/sass\/layout\/_navigation\.scss}line{font-family:\0000338}}
+section div #movimientos ul li {
+  display: inline-block;
+  line-height: 1.5;
+  font-size: 14px;
+  font-weight: 400;
+  margin-top: 0;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/max\/Downloads\/Prueba-3\/assets\/sass\/layout\/_navigation\.scss}line{font-family:\0000352}}
+.card {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2rem;
+  text-align: center;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/max\/Downloads\/Prueba-3\/assets\/sass\/layout\/_navigation\.scss}line{font-family:\0000359}}
+.botonOk {
+  -webkit-animation-duration: 10s;
+          animation-duration: 10s;
+  -webkit-animation-delay: 10s;
+          animation-delay: 10s;
+  -webkit-animation-direction: alternate;
+          animation-direction: alternate;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/max\/Downloads\/Prueba-3\/assets\/sass\/layout\/_navigation\.scss}line{font-family:\0000366}}
+.imag {
+  border: 1px solid #424141;
+  background-color: #e2db80;
+  width: 1rem;
+  border-radius: 5px;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/max\/Downloads\/Prueba-3\/assets\/sass\/layout\/_navigation\.scss}line{font-family:\0000373}}
+h1 {
+  text-align: center;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/max\/Downloads\/Prueba-3\/assets\/sass\/layout\/_navigation\.scss}line{font-family:\0000377}}
+form {
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/max\/Downloads\/Prueba-3\/assets\/sass\/layout\/_navigation\.scss}line{font-family:\0000382}}
+.marco {
+  border: 1px solid black;
+  width: 60%;
+  margin-left: 15rem;
+  -webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+          box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/max\/Downloads\/Prueba-3\/assets\/sass\/layout\/_header\.scss}line{font-family:\000032}}
+.logo {
+  width: 25vw;
+  height: auto;
+  vertical-align: center;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/max\/Downloads\/Prueba-3\/assets\/sass\/layout\/_header\.scss}line{font-family:\000038}}
+li {
+  display: inline-block;
+  margin-right: 1rem;
+  margin-left: 1rem;
+  margin-top: 3rem;
+  font-weight: 500;
+}
+
+/*# sourceMappingURL=main.css.map */
