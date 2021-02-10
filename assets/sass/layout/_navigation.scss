@@ -1,0 +1,88 @@
+header {
+    height: 80px;
+    background-color: rgb(66, 65, 65);
+    padding-top: 1rem;
+    .ingresonum {
+        font-size: 1.5rem;
+        font-weight: 800;
+        color: white;
+        margin-left: 2rem;
+    }
+    
+    
+}
+section {
+    div {
+        
+        .imagen {
+            width: 80%;
+            margin-left: 1rem;
+            padding-bottom: 2rem;
+        }
+        p {
+            margin-left: 4rem;
+            margin-top: 0rem;
+            font-size: 1rem;
+            font-weight: 400;
+        }
+        #movimientos {
+            width: 80%;
+            height: auto;
+            padding: 0;
+            position: absolute;
+            margin-left: 18rem;
+            margin-top: 0rem;
+            
+            ul {
+                
+                li {
+                    display: inline-block;
+                    line-height: 1.5;
+                    font-size: 14px;
+                    font-weight: 400;
+                    margin-top: 0;
+                }
+                
+            }
+           
+        }
+    }
+}
+
+.card {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2rem;
+    text-align: center;
+}
+
+.botonOk {
+    animation-duration: 10s;
+    animation-delay: 10s;
+    animation-direction: alternate;
+    
+}
+
+.imag {
+    border: 1px solid rgb(66, 65, 65);
+    background-color: #e2db80;
+    width: 1rem;
+    border-radius: 5px;
+}
+
+h1{
+    text-align: center;
+}
+
+form {
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+.marco {
+    border: 1px solid black;
+    width: 60%;
+    margin-left: 15rem;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+}
